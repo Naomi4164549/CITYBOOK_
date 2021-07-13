@@ -1,0 +1,8 @@
+G:\CityBookProject\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+G:\CityBookProject\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+G:\CityBookProject\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\CityBookProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+G:\CityBookProject\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+G:\CityBookProject\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+G:\CityBookProject\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+G:\CityBookProject\Entities\obj\Debug\netcoreapp3.1\Entities.pdb

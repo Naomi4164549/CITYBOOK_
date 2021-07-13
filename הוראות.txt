@@ -1,0 +1,30 @@
+בס"ד
+שלום
+יש לי כמה דברים להסביר על הפרויקט:
+1  החיבור בין ה c# ל - angular לא פועל אבל הסרבר עובד נכון דרך ה-swagger
+                                                                                    הקליינט עובד נכון בהרצה ב-debug 
+                       שמעתי על כך שא"א לחבר בין visual stodio 2019 ל- angular אז אולי זו הבעיה
+2   ב-angular כשמרצים אותו יש שגיה צריך להכנס ל:Instructions   Instructions.ts    למחוק משם את הערך במשתנה name זה עושה שגיה אבל רץ (לא רציתי להתעכב על דבר כזה) ולרענן שוב
+
+
+האוביקט להרצה ב-swagger
+
+{
+  "id": 0,
+  "firstName": "aaaa",
+  "lastName": "bbbbb",
+  "identity": "123456789",
+  "dateborn": "2021-07-13T07:54:35.804Z",
+  "kind": "hjhk",
+  "hmo": "jll",
+  "numOfChildren": 1,
+  "children": [
+    {
+      "id": 0,
+      "firstName": "sssss",
+      "identity": "123456789",
+      "dateborn": "2021-07-13T07:54:35.805Z",
+      "tzUser": "123456789"
+    }
+  ]
+} 

@@ -1,0 +1,20 @@
+<form #f="ngForm"> 
+    <h3>Enter your details:</h3>
+    <p>First Name <input type="text" matInput placeholder="Ex. Chani" #fName (keyup)="fNamefun(fName.value)"
+            (blur)="isLetters(fName.value)" required></p>
+    <p>Last Name <input type="text" matInput placeholder="Ex. fuks" #lName (keyup)="lNamefun(lName.value)"
+            (blur)="isLetters(lName.value)" required>
+    </p>
+    <p>Identity <input type="text" matInput placeholder="Ex.324243591" #idntity (keyup)="idfun(idntity.value)" (blur)="isNumbers(idntity.value)" required></p>
+    <p>Dateborn <input type="date" matInput placeholder="Ex. 23/10/2001" #date (keyup)="datefun(date.value)" required></p>
+    <p>Kind <input type="text" matInput placeholder="Ex. female" #kind (keyup)="kindfun(kind.value)" (blur)="isLetters(kind.value)" required></p>
+    <p>HMO <input type="text" matInput placeholder="Ex. Macabbi" #hmo (keyup)="hmofun(hmo.value)" (blur)="isLetters(hmo.value)" required></p>
+    <p>Num children <input type="text" matInput placeholder="Ex. 9" id="children" name="children" #children
+            (keyup)="numChildren(children.value)" required></p>
+    <div *ngFor="let c of c1 ; let i =index">
+        <app-child (completeChild)="outputc($event ,i)"></app-child>
+
+    </div>
+    <button class="md-button" type="submit" value="Save" (click)="isValid()">Save</button>
+    <button class="md-button" (click)="open()">To the instructions page</button>
+</form>

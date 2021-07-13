@@ -1,0 +1,4 @@
+<p>First Name <input type="text" matInput placeholder="Ex. Chani" #fName (blur)="fNamefun(fName.value)" required (blur)="isLetters(fName.value)"required></p>
+<p> Idntity <input type="text" matInput placeholder="Ex. 324243591" #idntity (blur)="idfun(idntity.value)" required (blur)="isNumbers(idntity.value)"required></p>
+<p>Dateborn<input type="date" #date (blur)="datefun(date.value)"  required></p>
+<button (blur)="saveChild()">Finish fill a child</button>

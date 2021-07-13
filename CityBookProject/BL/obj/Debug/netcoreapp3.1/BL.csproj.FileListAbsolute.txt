@@ -1,0 +1,14 @@
+G:\CityBookProject\BL\obj\Debug\netcoreapp3.1\BL.csprojAssemblyReference.cache
+G:\CityBookProject\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfoInputs.cache
+G:\CityBookProject\BL\obj\Debug\netcoreapp3.1\BL.AssemblyInfo.cs
+G:\CityBookProject\BL\obj\Debug\netcoreapp3.1\BL.csproj.CoreCompileInputs.cache
+G:\CityBookProject\BL\bin\Debug\netcoreapp3.1\BL.deps.json
+G:\CityBookProject\BL\bin\Debug\netcoreapp3.1\BL.dll
+G:\CityBookProject\BL\bin\Debug\netcoreapp3.1\BL.pdb
+G:\CityBookProject\BL\bin\Debug\netcoreapp3.1\DAL.dll
+G:\CityBookProject\BL\bin\Debug\netcoreapp3.1\Entities.dll
+G:\CityBookProject\BL\bin\Debug\netcoreapp3.1\DAL.pdb
+G:\CityBookProject\BL\bin\Debug\netcoreapp3.1\Entities.pdb
+G:\CityBookProject\BL\obj\Debug\netcoreapp3.1\BL.csproj.CopyComplete
+G:\CityBookProject\BL\obj\Debug\netcoreapp3.1\BL.dll
+G:\CityBookProject\BL\obj\Debug\netcoreapp3.1\BL.pdb
